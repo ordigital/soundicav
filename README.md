@@ -13,4 +13,5 @@ After that you just need to **take +9V and GND** from anywhere you want on PCB *
 
 ![Soundic SD-01 AV mod](soundic-tv-game-ay-3-8500-av-mod.jpg "Soundic SD-01 AV mod")
 
-This mod works much better than [Pong Clone AY-3-8500 Video-Hack 6 Feb. 2011](https://www.gruselroman-forum.de/cbmhardware/temp/ay-3-8500video.png). My approach was inspired by [exrom/rgbpong](https://github.com/exrom/rgbpong).
+This mod works much better than [Pong Clone AY-3-8500 Video-Hack 6 Feb. 2011](https://www.gruselroman-forum.de/cbmhardware/temp/ay-3-8500video.png). 
+My approach was inspired by [exrom/rgbpong](https://github.com/exrom/rgbpong).
